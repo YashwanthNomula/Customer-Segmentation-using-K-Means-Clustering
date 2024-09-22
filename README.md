@@ -34,6 +34,8 @@ Calculate the Within-Cluster Sum of Squares (WCSS) to determine the optimal numb
 **Cluster Visualization:**
 Visualize the clusters for better understanding and interpretation.
 
+![workflow]Workflow KM.png
+
 **Features**
 Customer Segmentation: Segment customers based on their demographic and spending behavior.
 Cluster Visualization: Visualize the groups of customers using various plotting techniques.
